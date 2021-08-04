@@ -12,14 +12,21 @@ table
 }
 
 td, th {
-  border: 1px solid #dd1d1d;
+  border: 1px solid #e10cfd;
   text-align: center;
   padding: 4px;
+  color: rgb(0, 183, 255);
 }
 
  tr:nth-child(even) {
-  background-color: #1a9af0;
+  background-color: #f7df09;
    
+}
+
+.t1
+{
+  color: darkred;
+
 }
   
 p {
@@ -67,6 +74,8 @@ article {
     color: #dd1d1d;
     
 }
+
+
 
 
 
